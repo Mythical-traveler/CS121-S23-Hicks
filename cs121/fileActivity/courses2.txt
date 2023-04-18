@@ -1,0 +1,7 @@
+Courses Credits Score
+ASTR 69   5     100
+BIOl 45   5      90
+Courses Credits Score
+ASTR45    5      98
+CYB 101   5      99
+BSD109    5      90

@@ -1,0 +1,4 @@
+course credit score
+cs121 4 100
+cs124 4 91
+astr124 4 95
