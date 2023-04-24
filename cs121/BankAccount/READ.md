@@ -1,0 +1,1 @@
+This activity simulates a Banking system. It contains methods for a checking account and a savings account. In addition, you can create multiple accounts, and these will be stored inside an ArrayList. It also contains a few choices on what to do. 
