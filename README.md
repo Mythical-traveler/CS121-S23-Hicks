@@ -1,7 +1,7 @@
 # CS121-S23-Hicks
 Name: Devlin Hicks
 
-Email:d_hick@icloud.com
+Email: d_hick@icloud.com
  
 | Number | Activity Title | Description |
 | :----: | ------ | ----------- |
